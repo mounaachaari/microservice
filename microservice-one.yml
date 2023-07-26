@@ -1,2 +1,4 @@
 microservice-one:
   value: 100
+server:
+  port: 8881
